@@ -1,0 +1,18 @@
+.page {
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.outer {
+    background-color: aliceblue;
+    display: flex;
+}
+
+.house {
+    width: 400px;
+    height: 700px;
+    object-fit: cover;
+}
